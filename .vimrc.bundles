@@ -275,6 +275,7 @@
         if count(g:spf13_bundle_groups, 'elixir')
             Bundle 'elixir-lang/vim-elixir'
             Bundle 'slashmili/alchemist.vim'
+            Bundle 'larrylv/ycm-elixir'
         endif
     " }
 
